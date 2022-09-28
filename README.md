@@ -1,2 +1,2 @@
 # juan
-Un ejemplo para 1DS
+Un ejemplo para 1DS para crear y subir archivos
